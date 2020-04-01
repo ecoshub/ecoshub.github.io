@@ -1,0 +1,71 @@
+@charset "utf-8";
+// my white
+$white: #d3d4d6 !default;
+
+// Define defaults for each variable.
+$base-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+  'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol' !default;
+$base-font-size: 16px !default;
+$base-font-weight: 400 !default;
+$small-font-size: $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit: 30px !default;
+
+$text-color: $white !default;
+//sublime #292d3e
+//current #2b7cb3
+//ogulcan #242424
+$background-color: #292d3e !default;
+// $brand-color: #2a4158 !default;
+$brand-color: #fff !default;
+
+$grey-color: #61838d !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
+
+// custom addition
+$split-unit-top: 0px !default;
+$split-unit-middle: 2px !default;
+$split-unit-bot: 2px !default;
+$split-line-color: $white !default;
+$tag-background: #219bc3 !default;
+$body-main-color: #154167 !default;
+$highlight-font-color: #f9f9f7 !default;
+$highlight-background-color: #2a4158 !default;
+$social-media-username-color: #fff !default;
+$footer-desc-color: $white !default;
+$email-color: $white !default;
+// $hub-color: $brand-color;
+$table-text-align: left !default;
+$shadow-color: $white !default;
+$hub-color: $tag-background !default;
+$icon-color: $tag-background !default;
+// Width of the content area
+$post-header-color: $white;
+
+
+$content-width: 800px !default;
+
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import 'minima/base', 'minima/layout', 'minima/syntax-highlighting', 'custom/cat-container', 'custom/overrides';

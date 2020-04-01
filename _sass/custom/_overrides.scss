@@ -1,0 +1,79 @@
+h3 {
+	// blog posts and 'Posts' hedaer spacing
+  margin: 0px;
+}
+
+// home page 'Posts' header color
+.post-list-heading{
+	color: #bb4e51;
+}
+
+// post date and author
+.post-meta{
+	color: $grey-color-light;
+	font-style: italic;
+	font-size: 14px;
+}
+
+// desription
+.footer-col-3{
+	font-style: italic;
+}
+
+// post date color
+.post-title{
+	color: $icon-color;
+}
+
+.u-email{
+	color:$email-color;
+}
+
+.highlight{
+	border-radius: 5px;
+	color: $highlight-font-color;
+	// keyword high.
+	.k {
+	    color: #d64d61;
+	}
+	// keyword high.
+	.kt {
+	    color: #fcf3b5;
+	}
+	// const
+	.m {
+	    color: #d39741;
+	}
+	// string
+	.s {
+	    color: #cfd700;
+	}
+	// string 2 for {%highlight%}
+	.s2 {
+	    color: #cfd700;
+	}
+	// string 1 for {%highlight%}
+	.s1 {
+	    color: #cfd700;
+	}
+	// string
+	.nf {
+	    color: #bb89ec;
+	}
+	// operators
+	.o {
+	    color: #92ddea;
+	}
+	// operators
+	.p {
+	    color: #92ddea;
+	}
+}
+
+pre,
+code {
+	// `back tick` background
+  background-color: $highlight-background-color;
+  border: 0px;
+  border-radius: 2px;
+}

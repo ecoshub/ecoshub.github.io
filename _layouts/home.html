@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+	{%- if page.title -%}
+	<h1 class="page-heading">{{ page.title }}</h1>
+	{%- endif -%}
+	
+	{{ content }}
+
+	{%- if site.posts.size > 0 -%}
+	<h2 class="post-list-heading">{{ page.list_title | default: "" }}</h2>
+	<ul class="post-list">
+		{%- for post in site.posts -%}
+		<li>
+			<h3>
+				<a class="post-link" href="{{ post.url | relative_url }}">
+					{{ post.title | escape }}
+				</a>
+			</h3>
+			
+			<!-- I added this, this is tag container -->
+			<div class="cat_container">
+				{%- for cat in post.categories -%}
+				<div class="cat_container_item">
+					<span class="post-meta">{{ cat }}</span>
+				</div>
+				{%- endfor -%}
+			</div>
+
+			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+			<span class="post-meta">{{ post.date | date: date_format }}</span>
+
+			{%- if site.show_excerpts -%}
+			{{ post.excerpt }}
+			{%- endif -%}
+		</li>
+		{%- endfor -%}
+	</ul>
+	{%- endif -%}
+
+</div>
