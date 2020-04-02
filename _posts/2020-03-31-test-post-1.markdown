@@ -1,7 +1,7 @@
 ---
 author: eco
 layout: post
-title:  "This is My First Blog Post!"
+title:  "[Test] This is My First Blog Post!"
 date:   2020-03-31 16:30:58 +0300
 categories: golang linux manjaro
 ---
