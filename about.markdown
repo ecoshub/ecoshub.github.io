@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-*Hi!  welcome to my personal blog.*
+*Hi!  Welcome to my personal blog.*
 
 *This is a couple of things, you might need to know about me.*
 
@@ -23,7 +23,7 @@ In my early education years I graduated from civil engineering. But in a short p
 
 ## Programming
 
-I have started to learn programming with **Pascal** in 2005 at my high school. to be honest I really do not remember most of it. On the other hand when I first learn about programming concept, I thought *"this is the most awesome thing that a person can come-up with."* since then codding...
+I have started to learn programming with **Pascal** in 2005 at my high school. to be honest I really do not remember most of it. On the other hand when I first learn about programming concept, I thought *"this is the most awesome thing that a person can come-up with."* since then coding...
 
 ### Programming Languages -in chronic order-
 
@@ -34,7 +34,7 @@ Tools that a use:
 
 	* **Numpy** for numerical calculations.
 
-	* **Pandas** for manage and manupualte data
+	* **Pandas** for manage and manipulate data
 
 	* **Keras** and **sklearn** for machine learning purposes
 
@@ -44,7 +44,7 @@ Tools that a use:
 
 * **Go:** This is the programming language that I am current -*and fully*- working on. I'm working on **network programming**, **micro service architecture** and **developing supporting tools** with **golang**. Almost all of my go projects are in my [github](https://github.com/ecoshub) account. Some of my projects below.
 
-	* **[wsftp](https://github.com/ecoshub/wsftp) :** is a local network instant messaging and file transfer program. It uses **TCP/IP**, **UDP** and **websocket** protocols to comminicate each other.
+	* **[wsftp](https://github.com/ecoshub/wsftp) :** is a local network instant messaging and file transfer program. It uses **TCP/IP**, **UDP** and **websocket** protocols to communicate each other.
 
 	*  **[jin](https://github.com/ecoshub/jin) :** Jin is a **JSON** parser/interpreter tool it has advance manipulation functions and I am still working on it for adding new things. By the way it is the fastest **JSON** parser package that almost zero memory usage with most of functions. Only needs build-in packages.
 
@@ -52,7 +52,7 @@ Tools that a use:
 
 And those are the programming languages that I can write/read code, but not as good as above. 
 
-* **Assambly** with NASM (Netwide) assembler
+* **Assembly** with NASM (Netwide) assembler
 * **Linux Bash Script**
 * **JavaScript** with node
 
@@ -89,7 +89,7 @@ And those are the programming languages that I can write/read code, but not as g
 
 <br>
 
-### Hoobies
+### Hobbies
 
 * Electronic, Computer architecture
 * PCB design and DIY Arduino projects
