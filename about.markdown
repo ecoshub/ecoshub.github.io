@@ -5,11 +5,16 @@ permalink: /about/
 ---
 
 *Hi!  welcome to my personal blog.*
+
 *This is a couple of things, you might need to know about me.*
+
 ***
+
 ### Education
-In my early education years I graduated from civil engineering. But in a short period of time a realize this is not a job that I can work in my entire life with passion and joy. I was working on **computers**, **programming** and mostly **processor architecture** since I was a teenager, that un-professional interest build up in years and it becomes a passion so I start to study computer science at `Dokuz Eylul University` *(Turkey)*. After the second year I dropped out and started to study at the `Intertaional Computer Institue in Ege University` *(Turkey)* for my masters degree.
+In my early education years I graduated from civil engineering. But in a short period of time a realize this is not a job that I can work in my entire life with passion and joy. I was working on **computers**, **programming** and mostly **processor architecture** since I was a teenager, that un-professional interest build up in years and it becomes a passion so I start to study computer science at `Dokuz Eylul University` *(Turkey)*. After the second year I dropped out and started to study at `The Intertaional Computer Institue in Ege University` *(Turkey)* for my masters degree.
+
 ***
+
 ### Programming
 
 I have started to learn programming with **Pascal** in 2005 at my high school. to be honest I really do not remember most of it. On the other hand when I first learn about programming concept, I thought *"this is the most awesome thing that a person can come-up with."* since then codding...
@@ -33,7 +38,9 @@ And those are the programming languages that I can write/read code with but not 
 * Assamble with NASM (Netwide) environment.
 * Linux bash script
 * JavaScript with node
+
 ***
+
 ### Technologies/Programs that I have been using for development
 
 *  **CircleCI** for continues integration
@@ -42,13 +49,17 @@ And those are the programming languages that I can write/read code with but not 
 *  **Redis** for in-memory, cache base data structure store
 * **Node** for server testing purposes
 * **Unit testing**
+
 ***
+
 ### Environment
 * Arch-Linux base Manjaro operation system
 * Sublime Text for code writing,
 * VS Code for debugging
 * Vim for code editing with ssh communication
+
 ***
+
 ### Hoobies
 
 * Electronic, Computer architecture
