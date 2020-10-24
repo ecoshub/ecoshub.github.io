@@ -30,17 +30,23 @@ I have started to learn programming with **Pascal** in 2005 at my high school. t
 
 -   **Java:** I am using java for desktop and mobile environments. I wrote my graduation project with java it was a computing and simulation program for isostatic systems. You can draw a system with touch pad, apply the forces and It calculates the deflection and inner stress. Also I wrote a ton of engineering calculation programs for ease my workload.
 
+<br>
+
 -   **Python:** I'm using python 3 for data visualization, data cleaning, machine learning and CNN (convolution neural networks).
     Tools that a use:
 
-        -	**Numpy**
-        -	**Pandas**
-        -	**Keras** and **sklearn**
-        -	**Matplotlib**
-        -	**Seaborn**
-        -	**Tensorflow** (but since version 2 came out I couldn't use that when I use to be, I  thing I have to update my self to.)*.
+    -   **Numpy**
+    -   **Pandas**
+    -   **Keras** and **sklearn**
+    -   **Matplotlib**
+    -   **Seaborn**
+    -   **Tensorflow** (but since version 2 came out I couldn't use that when I use to be, I thing I have to update my self to.)\*.
+
+<br>
 
 -   **C, C++ and C#:** Actually C++ is one of my favorite languages. I am using **C** and **C++** for brute force calculations to get real solutions to compare result of other sub minimal solutions that i come up with. And when I am tired or bored from serious things I am using **C#** for game programming with **unity** :)
+
+<br>
 
 -   **Go:** This is the programming language that I am current -_and fully_- working on. I'm working on **network programming**, **micro service architecture** and **developer tools**. Almost all of my go projects are in my [github](https://github.com/ecoshub) account. Some of my projects below.
 
@@ -51,6 +57,8 @@ I have started to learn programming with **Pascal** in 2005 at my high school. t
     -   **[seecool](https://github.com/ecoshub/seecool) :** Seecool is a easy SQL query creator and row manipulater tool. currently under development. A full documentation will be publish in short time.
 
 And those are the programming languages that I can write/read code, but not as good as above.
+
+<br>
 
 -   **JavaScript**
 -   **Assembly** with NASM (Netwide) assembler
@@ -83,12 +91,13 @@ And those are the programming languages that I can write/read code, but not as g
 
 ## Environment
 
-### OS
+#### OS
 
 -   Manjaro (Arch Linux Based)
 -   Ubuntu (Debian Based)
+-   Windows
 
-### IDE
+#### IDE
 
 -   vscode
 -   sublime
