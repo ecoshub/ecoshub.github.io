@@ -4,95 +4,107 @@ title: About Me
 permalink: /about/
 ---
 
-*Hi!  Welcome to my personal blog.*
+_Hi! Welcome to my personal blog._
 
-*This is a couple of things, you might need to know about me.*
+_This is a couple of things, you might need to know about me._
 
-***
+---
 
 <br>
 
 ## Education
-After highschool I stared to study in civil engineering at **Eskişehir Osmangazi University** and I graduated. But in a short period of time a realize this is not a job that I can work for my entire life with passion and joy. I was working on **computers**, **programming** and **processor architecture** since I was a teenager, that un-professional interest build up in years and it becomes a passion so I start to study computer science at **Dokuz Eylul University** *(Turkey)*. After the second year I dropped out and started to study at **The Intertaional Computer Institue** in **Ege University** *(Turkey)* for my masters degree.
+
+After highschool I started to study in civil engineering at **Eskişehir Osmangazi University** and I graduated. But in a short period of time a realize this is not a job that I can work for my entire life with passion and joy. I was working on **computers**, **programming** and **electronics** since I was a teenager, that un-professional interest build up in years and it becomes a passion. So I start to study computer science at **Dokuz Eylul University** _(Turkey)_. After the first year I dropped out and I started to study at **The Intertaional Computer Institue** in **Ege University** _(Turkey)_ for my masters degree.
 
 <br>
 
-***
+---
 
 <br>
 
 ## Programming
 
-I have started to learn programming with **Pascal** in 2005 at my high school. to be honest I really do not remember most of it. On the other hand when I first learn about programming concept, I thought *"this is the most awesome thing that a person can come-up with."* since then I'am coding...
+I have started to learn programming with **Pascal** in 2005 at my high school. to be honest I really do not remember most of it. On the other hand when I first learn about programming concept, I thought _"this is the most awesome thing that a person can come-up with."_ since then I am coding...
 
 ### Programming Languages -in chronic order-
 
-* **Java:** I am using java for desktop and mobile environments. I wrote my graduation project with java it was a computing and simulation program for isostatic systems.  You can draw a system with touch pad, apply the forces and It calculates the  deflection and inner stress. Also I wrote a ton of engineering calculation programs for ease my workload.
+-   **Java:** I am using java for desktop and mobile environments. I wrote my graduation project with java it was a computing and simulation program for isostatic systems. You can draw a system with touch pad, apply the forces and It calculates the deflection and inner stress. Also I wrote a ton of engineering calculation programs for ease my workload.
 
-* **Python:** I'm using python 3 for data visualization, data cleaning, machine learning and CNNs (convolution neural networks).
-Tools that a use:
+-   **Python:** I'm using python 3 for data visualization, data cleaning, machine learning and CNN (convolution neural networks).
+    Tools that a use:
 
-	* **Numpy** for numerical calculations.
+        -	**Numpy**
+        -	**Pandas**
+        -	**Keras** and **sklearn**
+        -	**Matplotlib**
+        -	**Seaborn**
+        -	**Tensorflow** (but since version 2 came out I couldn't use that when I use to be, I  thing I have to update my self to.)*.
 
-	* **Pandas** for manage and manipulate data
+-   **C, C++ and C#:** Actually C++ is one of my favorite languages. I am using **C** and **C++** for brute force calculations to get real solutions to compare result of other sub minimal solutions that i come up with. And when I am tired or bored from serious things I am using **C#** for game programming with **unity** :)
 
-	* **Keras** and **sklearn** for machine learning purposes
+-   **Go:** This is the programming language that I am current -_and fully_- working on. I'm working on **network programming**, **micro service architecture** and **developer tools**. Almost all of my go projects are in my [github](https://github.com/ecoshub) account. Some of my projects below.
 
-	* **Tensorflow** for large scale matrix calculation. *(but since version 2 came out I couldn't use that when I use to be, I  thing I have to update my self to.)*.
+    -   **[wsftp](https://github.com/ecoshub/wsftp) :** is a local network instant messaging and file transfer program. It uses **TCP/IP**, **UDP** and **websocket** protocols to communicate each other.
 
-* **C, C++ and C#:** Actually C++ is one of my favorite languages. I am using **C** and **C++** for brute force calculations to get real solutions to compare result of  other sub minimal solutions. And when I am tired or bored from serious things I am using **C#** for game programming with **unity** :) 
+    -   **[jin](https://github.com/ecoshub/jin) :** Jin is a **JSON** parser/interpreter tool it has advance manipulation functions and I am still working on it for adding new things. By the way it is the fastest **JSON** parser package that almost zero memory usage with most of functions. Only needs build-in packages.
 
-* **Go:** This is the programming language that I am current -*and fully*- working on. I'm working on **network programming**, **micro service architecture** and **developing supporting tools** with **golang**. Almost all of my go projects are in my [github](https://github.com/ecoshub) account. Some of my projects below.
+    -   **[seecool](https://github.com/ecoshub/seecool) :** Seecool is a easy SQL query creator and row manipulater tool. currently under development. A full documentation will be publish in short time.
 
-	* **[wsftp](https://github.com/ecoshub/wsftp) :** is a local network instant messaging and file transfer program. It uses **TCP/IP**, **UDP** and **websocket** protocols to communicate each other.
+And those are the programming languages that I can write/read code, but not as good as above.
 
-	*  **[jin](https://github.com/ecoshub/jin) :** Jin is a **JSON** parser/interpreter tool it has advance manipulation functions and I am still working on it for adding new things. By the way it is the fastest **JSON** parser package that almost zero memory usage with most of functions. Only needs build-in packages.
-
-	* **[seecool](https://github.com/ecoshub/seecool) :** Seecool is a easy SQL query creator and row manipulater tool. currently under development. A full documentation will be publish in short time.
-
-And those are the programming languages that I can write/read code, but not as good as above. 
-
-* **Assembly** with NASM (Netwide) assembler
-* **Linux Bash Script**
+-   **JavaScript**
+-   **Assembly** with NASM (Netwide) assembler
+-   **Linux Bash Script**
 
 <br>
 
-***
+---
 
 <br>
 
 ## Technologies/Programs
 
-*  **CircleCI** for continues integration
-* **Docker** for containerization
-* **PostgeSQL** for relational databases
-*  **Redis** for in-memory, cache base data structure store
-* **Node** for server testing purposes
-* **Unit testing**
+-   **CircleCI**
+-   **Docker**
+-   **RabbitMQ**
+
+-   **PostgeSQL**
+-   **MongoDB**
+-   **Redis**
+
+-   **Node.JS**
+-   **Unit testing**
 
 <br>
 
-***
+---
 
 <br>
 
 ## Environment
-* Arch-Linux base Manjaro / Deabian buster /  Windows 10 OS
-* Sublime Text for codfing,
-* VS Code for debugging
-* Vim for code editing with ssh communication
+
+### OS
+
+-   Manjaro (Arch Linux Based)
+-   Ubuntu (Debian Based)
+
+### IDE
+
+-   vscode
+-   sublime
+-   vim
 
 <br>
 
-***
+---
 
 <br>
 
 ### Hobbies
 
-* Electronic, Computer architecture
-* PCB design and DIY Arduino projects
-* Machine Learning specially SNNs *(Spiking neural network)*
-* Personal research about networking and communication concepts
-* Making wooden toys, tools and ornaments. 
-* Making hyper casual games with Unity Engine.
+-   Electronic, Computer architecture
+-   PCB design and DIY Arduino projects
+-   Machine Learning specially SNNs _(Spiking neural network)_
+-   Personal research about networking and communication concepts
+-   Making hyper casual games with Unity Engine.
+-   Making wooden tools, toys and ornaments.
