@@ -14,7 +14,9 @@ _This is a couple of things, you might need to know about me._
 
 ## Education
 
-After highschool I started to study in civil engineering at **Eskişehir Osmangazi University** and I graduated. But in a short period of time a realize that this is not a job that I can work for my entire life with passion and joy. I was study about **computer architecture**, **programming** and **electronics** since I was a teenager, that unprofessional interest build up in years and it becomes a passion. So I start to study computer science at **Dokuz Eylul University** _(Turkey)_. After the first year I dropped out and I started to study at **The International Computer Institute** in **Ege University** _(Turkey)_ for my masters degree.
+After high school I started to study in **Civil Engineering** at **Eskişehir Osmangazi University**. I have started my career as a site chief. After two years, I have got a big promotion and I became assistant project manager. Everything was great but I realize that this is not a job that I can work for my entire life with passion and happiness. I have been studying about **programming**, **computer architecture** and **electronics** since I was a teenager, that unprofessional interest build up in years and it became a passion. So I have started to study **Computer Science** at **Dokuz Eylul University** (Turkey). After the first year I dropped out and I have started to study at The **International Computer Institute** in **Ege University** (Turkey) for my masters degree.
+
+My long-term dream is to do research and development on computer architecture with a professional and highly qualified team.
 
 <br>
 
@@ -28,13 +30,13 @@ I started to learn programming with **Pascal** in 2005 at my high school. to be 
 
 ### Programming Languages -in chronic order-
 
--   **Java:** I was using java to build desktop and mobile applications. I wrote my graduation project with java it was a computation and simulation program for isostatic system analysis. It has a interface that you can draw a system using touch pad, apply the forces and It calculates the deflection and inner stress of the system. Also I wrote a ton of engineering calculation programs to ease my workload. It was my main programming language over 3 or 4 years.
+-   **Java:** I was using java to build desktop and mobile applications. I wrote my graduation project with java it was a computation and simulation program for isostatic system analysis. It has an interface that you can draw a system using touch pad, apply the forces and It calculates the deflection and inner stress of the system. Also I wrote a ton of engineering calculation programs to ease my workload. It was my main programming language over 3 or 4 years.
 
 <br>
 
 -   **Python:** I was using python3 for data visualization, data cleaning, machine learning and Deep learning (mostly CNN).
-    I am still have basic understanding about those concepts.
-    Tools that a use:
+    I still have basic understanding about those concepts.
+    Tools that a have used:
 
     -   **Numpy**
     -   **Pandas**
