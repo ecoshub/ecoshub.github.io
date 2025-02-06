@@ -13,15 +13,15 @@ _This is a couple of things, you might need to know about me._
 <br>
 
 
-# Welcome to My Professional Portfolio
+## Welcome to My Professional Portfolio
 
 Hello! I'm [Your Name], a dedicated software engineer with a diverse background in civil engineering and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
-## My Journey
+### My Journey
 
 After completing high school, I pursued a degree in Civil Engineering at Eskişehir Osmangazi University. I began my career as a site chief and, after two years, was promoted to Assistant Project Manager. Despite the success, I realized that this path didn't ignite my passion. Programming had been a hobby since my teenage years, evolving into a deep-seated passion. This realization led me to study Computer Science at Dokuz Eylul University. After a year, I transitioned to the International Computer Institute at Ege University for my master's degree. However, I ultimately decided to leave the program to fully immerse myself in the software development field.
 
-## Professional Experience
+### Professional Experience
 
 ### Senior Backend Developer
 **Masomo**  
@@ -42,7 +42,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 - **Architecture Development:** Designed and implemented new communication architecture models for optimization purposes.
 - **Primary Technology:** Utilized Go (Golang) for backend development.
 
-### Software Engineer
+#### Software Engineer
 **Loggma**  
 *October 2020 – July 2021 (10 months)*  
 *İzmir, Turkey*
@@ -50,7 +50,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 - **SCADA Systems Development:** Designed and implemented SCADA systems for Solar Energy Power Plants using Go.
 - **Communication Adapter Development:** Developed communication adapter systems (Modbus-RTU, Modbus-TCP, IEC 60870-104) using Go and Python.
 
-### Backend Developer
+#### Backend Developer
 **Solar Bankers Turkey**  
 *July 2020 – October 2020 (4 months)*  
 *İzmir, Turkey*
@@ -60,7 +60,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 - **Solar Server Development:** Designed and implemented a server-side application for device communication, notification, and monitoring using Go.
 
 
-## Technical Skills
+### Technical Skills
 
 - **Programming Languages:**
   - **Go (Golang):** Primary language for backend development.
@@ -81,7 +81,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
   - **Databases:** MySQL, PostgreSQL
   - **Containerization:** Docker
 
-## Selected Projects
+### Selected Projects
 
 - **Cubic Match:**
   - **Platform:** iOS and Android
@@ -94,7 +94,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
     - [App Store](https://apps.apple.com/us/app/cubic-match-puzzle-game/id6733216385)
     - [Google Play](https://play.google.com/store/apps/details?id=com.solitudegames.RubikMatch&hl=en)
 
-- **ASME8 Project:**
+- **E8 Project:**
   - **Description:** Developed a custom 8-bit computer system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
   - **Technologies Used:** Go (Golang) for software components; hardware implementation planned.
   - **GitHub Repository:** [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
@@ -107,13 +107,13 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 
 - **Jin:** A JSON parser/interpreter tool with advanced manipulation functions, known for its speed and low memory usage. [GitHub Repository](https://github.com/ecoshub/jin)
 
-## Hobbies and Interests
+### Hobbies and Interests
 
 - **Computer Architecture and Electrical Engineering:** Enthusiast of low-level computer systems and hardware design, with a focus on 8-bit computers and their architectures.
 - **Sci-Fi and Fantasy Literature:** Avid reader of science fiction and fantasy genres, including works like "The Lord of the Rings" and "Middle-earth" series.
 
 
-## Contact Information
+### Contact Information
 
 Feel free to reach out to discuss potential collaborations or opportunities:
 
