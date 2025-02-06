@@ -17,14 +17,22 @@ _This is a couple of things, you might need to know about me._
 
 Hello! I'm Emre Ocak, a dedicated software engineer with a diverse background in civil engineering and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
+<br>
+
 ### My Journey
 
 After completing high school, I pursued a degree in Civil Engineering at Eskişehir Osmangazi University. I began my career as a site chief and, after two years, was promoted to Assistant Project Manager. Despite the success, I realized that this path didn't ignite my passion. Programming had been a hobby since my teenage years, evolving into a deep-seated passion. This realization led me to study Computer Science at Dokuz Eylul University. After a year, I transitioned to the International Computer Institute at Ege University for my master's degree. However, I ultimately decided to leave the program to fully immerse myself in the software development field.
 
+<br>
+<br>
+
+
 ### Professional Experience
 
+---
+
 ### Senior Backend Developer
-**Masomo**  
+**Masomo Miniclip**  
 *August 2022 – Present (2 years 7 months)*
 
 - System Architecture Design: Led the design and implementation of new system architectures to enhance scalability and performance.
@@ -59,8 +67,13 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 - Solar Node Development: Designed and developed a Linux service-based OS for a blockchain-based, solar-powered device using Go.
 - Solar Server Development: Designed and implemented a server-side application for device communication, notification, and monitoring using Go.
 
+<br>
+<br>
+
 
 ### Technical Skills
+
+---
 
 #### Programming Languages:
 
@@ -70,6 +83,8 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
   - **Java:** Experience in desktop and mobile application development.
   - **C#:** Utilized for game development with Unity.
   - **Assembly (NASM):** Explored for low-level programming and system optimization.
+
+<br>
 
 #### Technologies and Tools:
 
@@ -86,32 +101,43 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 ### Selected Projects
 
 - **Cubic Match:**
-  - Platform: Mobile game (iOS and Android)
+  - Platform: `Mobile game` (iOS and Android)
   - Description: Developed "Cubic Match," an innovative match-based puzzle game that redefines the genre with its unique mechanics and engaging gameplay. The game challenges players' problem-solving skills through a series of increasingly complex puzzles.
   - Links:
     - [App Store](https://apps.apple.com/us/app/cubic-match-puzzle-game/id6733216385)
     - [Google Play](https://play.google.com/store/apps/details?id=com.solitudegames.RubikMatch&hl=en)
 
 - **E8 Project:**
-  - Description: Developed a custom 8-bit computer system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
+  - Description: Developed a `custom 8-bit computer` system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
   - Technologies Used: `Go` (Golang) for software components, and `ANTLR4` for lexer and parser
   - GitHub Repository: [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
 
-- **Termium:** A CLI package enabling the creation of panel-based applications with built-in command-line interaction capabilities. [GitHub Repository](https://github.com/ecoshub/termium)
+- **Termium:** A `CLI package` enabling the creation of panel-based applications with built-in command-line interaction capabilities. [GitHub Repository](https://github.com/ecoshub/termium)
 
 - **Surreal:** A command-line tool for communication with `USB UART` or `RS232` serial devices, offering on-the-fly configuration changes and output mode selection. [GitHub Repository](https://github.com/ecoshub/surreal)
 
-- **WSFTP:** A local network instant messaging and file transfer program using TCP/IP, UDP, and WebSocket protocols. [GitHub Repository](https://github.com/ecoshub/wsftp)
+- **WSFTP:** A local network `instant messaging` and `file transfer program` using TCP/IP, UDP, and `WebSocket` protocols. [GitHub Repository](https://github.com/ecoshub/wsftp)
 
 - **Jin:** A JSON parser/interpreter tool with advanced manipulation functions, known for its speed and low memory usage. [GitHub Repository](https://github.com/ecoshub/jin)
 
+
+<br>
+<br>
+
 ### Hobbies and Interests
+
+---
 
 - **Computer Architecture and Electrical Engineering:** Enthusiast of low-level computer systems and hardware design, with a focus on 8-bit computers and their architectures.
 - **Sci-Fi and Fantasy Literature:** Avid reader of science fiction and fantasy genres, including works like "The Lord of the Rings" and "Middle-earth" series.
 
+<br>
+<br>
+
 
 ### Contact Information
+
+---
 
 Feel free to reach out to discuss potential collaborations or opportunities:
 
