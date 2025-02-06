@@ -13,99 +13,110 @@ _This is a couple of things, you might need to know about me._
 <br>
 
 
-## Brief history of mine
+# Welcome to My Professional Portfolio
 
-After high school I started to study in **Civil Engineering** at **Eskişehir Osmangazi University**. I have started my career as a site chief. After two years, I have got a big promotion and I became assistant project manager. Everything was great about my career but I was not happy. I realize that this is not a job that I can work for my entire life with passion and happiness. I have been studying programming since I was a teenager, that unprofessional interest build up in years and it became a passion. So I have started to study **Computer Science** at **Dokuz Eylul University** (Turkey). After the first year I dropped out and I have started to study at The **International Computer Institute** in **Ege University** (Turkey) for my masters degree.
+Hello! I'm [Your Name], a dedicated software engineer with a diverse background in civil engineering and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
-I am working as a Backend engineer/architect. I love to work on network and service design but My long-term dream is to do research and development on processor architecture with a professional and highly qualified team.
+## My Journey
 
-<br>
+After completing high school, I pursued a degree in Civil Engineering at Eskişehir Osmangazi University. I began my career as a site chief and, after two years, was promoted to Assistant Project Manager. Despite the success, I realized that this path didn't ignite my passion. Programming had been a hobby since my teenage years, evolving into a deep-seated passion. This realization led me to study Computer Science at Dokuz Eylul University. After a year, I transitioned to the International Computer Institute at Ege University for my master's degree. However, I ultimately decided to leave the program to fully immerse myself in the software development field.
 
----
+## Professional Experience
 
-<br>
+### Senior Backend Developer
+**Masomo**  
+*August 2022 – Present (2 years 7 months)*
 
-## Programming
+- **System Architecture Design:** Led the design and implementation of new system architectures to enhance scalability and performance.
+- **Core Services Maintenance:** Managed and optimized core services to ensure reliability and efficiency.
+- **Service Refactoring:** Refactored existing core services to improve code quality and maintainability.
 
-I started to learn programming with **Pascal** in 2005 at my high school. To be honest I really do not remember most of it. since then I am coding...
+### Backend Developer
+**Masomo**  
+*July 2021 – Present (3 years 8 months)*  
+*İzmir, Turkey*
 
-### Programming Languages -in chronic order-
+- **Core Services Maintenance:** Maintained and optimized core services to ensure seamless operations.
+- **Communication Optimization:** Enhanced internal and external service communications for improved performance.
+- **Resource Optimization:** Implemented resource optimizations for game servers to support high user engagement.
+- **Architecture Development:** Designed and implemented new communication architecture models for optimization purposes.
+- **Primary Technology:** Utilized Go (Golang) for backend development.
 
--   **Java:** I was using java to build desktop and mobile applications. I wrote my graduation project with java it was a computation and simulation program for isostatic system analysis. It has an interface that you can draw a system using touch pad, apply the forces and It calculates the deflection and inner stress of the system. Also I wrote a ton of engineering calculation programs to ease my workload. It was my main programming language over 3 or 4 years.
+### Software Engineer
+**Loggma**  
+*October 2020 – July 2021 (10 months)*  
+*İzmir, Turkey*
 
-<br>
+- **SCADA Systems Development:** Designed and implemented SCADA systems for Solar Energy Power Plants using Go.
+- **Communication Adapter Development:** Developed communication adapter systems (Modbus-RTU, Modbus-TCP, IEC 60870-104) using Go and Python.
 
--   **Python:** I was using python for data visualization, data cleaning, machine learning and Deep learning (mostly CNN). I still have basic understanding about those concepts.**Numpy**, **Pandas**, **Keras** and **sklearn**, **Matplotlib**, **Seaborn**, **Tensorflow**.
+### Backend Developer
+**Solar Bankers Turkey**  
+*July 2020 – October 2020 (4 months)*  
+*İzmir, Turkey*
 
-<br>
+- **Energy Trading Platform:** Designed and partially implemented a microservice architecture for an e-commerce energy trading system using C#, .NET Core, and MVC.
+- **Solar Node Development:** Designed and developed a Linux service-based OS for a blockchain-based, solar-powered device using Go.
+- **Solar Server Development:** Designed and implemented a server-side application for device communication, notification, and monitoring using Go.
 
--   **C, C++ and C#:** C++ is one of my favorite programming languages. I am using **C** and **C++** programs that require heavy calculation such as my traveler salesman problem sub-minimal methods ( cpp source is not there but you can check out other methods of mine it was written in python [tsp](https://github.com/ecoshub/tsp-new-organization)) and embedded system programming. And when I tired or bored from serious stuff I am using **C#** to game programming with **unity** :). Also I have work on a project in my former company to create an e-commerce project. I had the opportunity to work on a microservice system with ASP.NET and .NET CORE. I have wrote 2 3 services with **C#**. There is a simple (and mostly not satisfying) assignment/project written in .NET core that you can check out [here](https://github.com/ecoshub/services).
 
-<br>
+## Technical Skills
 
--   **Assembly [NASM]:** All about curiosity.. I am try to learn assembly language since 4 years on and off. I think I have grasp the basics of assembly. I love the write code in assembly it so challenging and rewarding experience. Trying to write some of the Standard C libraries in assembly you can check out my progress in [here](https://github.com/ecoshub/nasm_c_source)
+- **Programming Languages:**
+  - **Go (Golang):** Primary language for backend development.
+  - **C/C++:** Used for performance-critical applications and embedded systems.
+  - **Python:** Applied in data visualization and machine learning projects.
+  - **Java:** Experience in desktop and mobile application development.
+  - **C#:** Utilized for game development with Unity.
+  - **Assembly (NASM):** Explored for low-level programming and system optimization.
 
-<br>
+- **Technologies and Tools:**
+  - **Operating Systems:** Linux (proficient in command-line operations), MACOS, Windows
+  - **Version Control:** Git, GitHub, Gitlab, Bitbucket
+  - **AWS Services:** EC2, S3, ElastiCache, DynamoDB, DocumentDB, Lambda.
+  - **Frameworks and Libraries:** .NET Core, MVC
+  - **Distributed Tracing:** Jaeger
+  - **Communication Protocols:** TCP/IP, UDP, HTTP, gRPC with Protocol Buffers
+  - **Message Queuing Systems:** NATS, RabbitMQ
+  - **Databases:** MySQL, PostgreSQL
+  - **Containerization:** Docker
 
--   **Go:** This is the programming language that I am current -_and fully_- working on. I'm working on **network programming**, **micro service architecture** and **developer tools**. Almost all of my go projects are in my [github](https://github.com/ecoshub) account. Some of my projects below.
+## Selected Projects
 
-    -   **[surreal](https://github.com/ecoshub/surreal) :**  is a command-line program designed to provide a communication interface for USB UART or RS232 serial devices. It offers essential functionality to connect, configure, and communicate with serial devices from your command line. Surreal Terminal offers key features such as on-the-fly communication configuration changes and output mode selection, makes it valuable tool.
+- **Cubic Match:**
+  - **Platform:** iOS and Android
+  - **Description:** Developed "Cubic Match," an innovative match-based puzzle game that redefines the genre with its unique mechanics and engaging gameplay. The game challenges players' problem-solving skills through a series of increasingly complex puzzles.
+  - **Features:**
+    - Unique match-based puzzle mechanics
+    - Engaging and challenging gameplay
+    - Available on both iOS and Android platforms
+  - **Links:**
+    - [App Store](https://apps.apple.com/us/app/cubic-match-puzzle-game/id6733216385)
+    - [Google Play](https://play.google.com/store/apps/details?id=com.solitudegames.RubikMatch&hl=en)
 
-    -   **[termium](https://github.com/ecoshub/termium) :** is a command line interface package that enables you to create panel-based applications with built-in command-line interaction capabilities.
-    
-    -   **[wsftp](https://github.com/ecoshub/wsftp) :** is a local network instant messaging and file transfer program. It uses **TCP/IP**, **UDP** and **websocket** protocols to communicate each other.
+- **ASME8 Project:**
+  - **Description:** Developed a custom 8-bit computer system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
+  - **Technologies Used:** Go (Golang) for software components; hardware implementation planned.
+  - **GitHub Repository:** [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
 
-    -   **[jin](https://github.com/ecoshub/jin) :** Jin is a **JSON** parser/interpreter tool it has advance manipulation functions and I am still working on it for adding new things. By the way it is the fastest **JSON** parser package that almost zero memory usage with most of functions. Only needs build-in packages.
+- **Termium:** A CLI package enabling the creation of panel-based applications with built-in command-line interaction capabilities. [GitHub Repository](https://github.com/ecoshub/termium)
 
-    There are much bigger projects that I have been working on or That I have finished. But all of my **work** projects are **close** source so I would love to take part in an open source project.
+- **Surreal:** A command-line tool for communication with USB UART or RS232 serial devices, offering on-the-fly configuration changes and output mode selection. [GitHub Repository](https://github.com/ecoshub/surreal)
 
-And those are the programming languages that I can write/read code, but not as good as above. **JavaScript**, **Bash Script**
+- **WSFTP:** A local network instant messaging and file transfer program using TCP/IP, UDP, and WebSocket protocols. [GitHub Repository](https://github.com/ecoshub/wsftp)
 
-<br>
+- **Jin:** A JSON parser/interpreter tool with advanced manipulation functions, known for its speed and low memory usage. [GitHub Repository](https://github.com/ecoshub/jin)
 
----
+## Hobbies and Interests
 
-<br>
+- **Computer Architecture and Electrical Engineering:** Enthusiast of low-level computer systems and hardware design, with a focus on 8-bit computers and their architectures.
+- **Sci-Fi and Fantasy Literature:** Avid reader of science fiction and fantasy genres, including works like "The Lord of the Rings" and "Middle-earth" series.
 
-## Technologies/Programs
--   **AWS**
-    -   **EC2**
-    -   **S3**
-    -   **elasticache**
-    -   **dynamoDB**
-    -   **documentDB**
-    -   **Lambda**
--   **Docker** (100+ projects )
--   **Redis** (20+ project)
--   **PostgeSQL** (10+ projects)
--   **MongoDB** (5+ projects)
--   **RabbitMQ** 
--   **NATS** 
--   **Unit testing** (%50 of my projects at least have %50 coverage unit testing. I am assuming :) )
 
-<br>
+## Contact Information
 
----
+Feel free to reach out to discuss potential collaborations or opportunities:
 
-<br>
-
-## Environment
-
-#### OS
-
-- I am using linux-like os's in my personal and work life since 8 years. (Manjaro, ubuntu, centos)
-- As editor, vscode  (my main editor), vim (my main terminal base editor)
-
-<br>
-
----
-
-<br>
-
-### Hobbies
-
--   Writing code.
--   Electronics, Computer architecture, Processor architecture, ARM, x80_86 etc.
--   Personal research about networking and communication concepts
--   Making hyper casual games with Unity Engine.
--   Making wooden tools, toys and ornaments.
+- **Email:** ocakemrecan@gmail.com
+- **LinkedIn:** [Emre Ocak](https://www.linkedin.com/in/emre-ocak-9262131ab/)
+- **GitHub:** [ecoshub](https://github.com/ecoshub)
