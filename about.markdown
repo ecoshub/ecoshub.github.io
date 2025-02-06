@@ -15,11 +15,19 @@ _This is a couple of things, you might need to know about me._
 
 ## Introduction
 
+---
+
+<br>
+
 Hello! I'm Emre Ocak, a dedicated software engineer with a diverse background in civil engineering and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
 <br>
 
 ### My Journey
+
+---
+
+<br>
 
 After completing high school, I pursued a degree in Civil Engineering at Eskişehir Osmangazi University. I began my career as a site chief and, after two years, was promoted to Assistant Project Manager. Despite the success, I realized that this path didn't ignite my passion. Programming had been a hobby since my teenage years, evolving into a deep-seated passion. This realization led me to study Computer Science at Dokuz Eylul University. After a year, I transitioned to the International Computer Institute at Ege University for my master's degree. However, I ultimately decided to leave the program to fully immerse myself in the software development field.
 
@@ -43,7 +51,7 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 
 <br>
 
-### Backend Developer
+#### Backend Developer
 **Masomo**  
 *July 2021 – Present (3 years 8 months)*  
 *İzmir, Turkey*
