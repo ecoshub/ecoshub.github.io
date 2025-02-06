@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to My Professional Portfolio
+title: Welcome
 permalink: /about/
 ---
 
-_Hi! Welcome to my personal blog._
+_Hi! Welcome to my  to my professional portfolio_
 
 _This is a couple of things, you might need to know about me._
 
