@@ -117,7 +117,15 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
   - **Databases:** MySQL, PostgreSQL
   - **Containerization:** Docker
 
+<br>
+<br>
+
+
 ### Selected Projects
+
+---
+
+<br>
 
 - **Cubic Match (Mobile Game):**
   - Platform: iOS and Android
