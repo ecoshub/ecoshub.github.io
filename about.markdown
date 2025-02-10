@@ -19,7 +19,7 @@ _This is a couple of things, you might need to know about me._
 
 <br>
 
-Hello! I'm Emre Ocak, a dedicated software engineer with a diverse background in civil engineering and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
+Hello! I'm Emre Ocak, a dedicated software engineer with a diverse background and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
 <br>
 
@@ -127,17 +127,17 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 
 <br>
 
+- **E8 Computer (Assembler & Emulator):**
+  - Description: Developed a `custom 8-bit computer` system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
+  - Technologies Used: `Go` (Golang) for software components, and `ANTLR4` for lexer and parser
+  - GitHub Repository: [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
+
 - **Cubic Match (Mobile Game):**
   - Platform: iOS and Android
   - Description: Developed "Cubic Match," an innovative match-based puzzle game that redefines the genre with its unique mechanics and engaging gameplay. The game challenges players' problem-solving skills through a series of increasingly complex puzzles.
   - Links:
     - [App Store](https://apps.apple.com/us/app/cubic-match-puzzle-game/id6733216385)
     - [Google Play](https://play.google.com/store/apps/details?id=com.solitudegames.RubikMatch&hl=en)
-
-- **E8 Computer (Assembler & Emulator):**
-  - Description: Developed a `custom 8-bit computer` system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
-  - Technologies Used: `Go` (Golang) for software components, and `ANTLR4` for lexer and parser
-  - GitHub Repository: [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
 
 - **Termium (Package):** A `CLI package` enabling the creation of panel-based applications with built-in command-line interaction capabilities. [GitHub Repository](https://github.com/ecoshub/termium)
 
