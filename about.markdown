@@ -19,7 +19,7 @@ _This is a couple of things, you might need to know about me._
 
 <br>
 
-Hello! I'm Emre Ocak, a dedicated software engineer with a diverse background and a profound passion for computer architecture and electrical engineering. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
+Hello. I'm Emre Ocak, a dedicated software engineer with a diverse background and a profound passion for computer network, computer architecture and engineering in general. Currently, I serve as a Senior Backend Developer at Masomo, a leading mobile game company, where I focus on maintaining core services and designing new system architectures using Go (Golang).
 
 <br>
 
