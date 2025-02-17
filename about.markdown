@@ -128,24 +128,24 @@ After completing high school, I pursued a degree in Civil Engineering at Eskişe
 <br>
 
 - **E8 Computer (Assembler & Emulator):**
-  - Description: Developed a `custom 8-bit computer` system, including its own instruction set architecture (ISA), assembler, linker, and emulator. This project explores the fundamentals of computer architecture and low-level programming.
+  - Description: Developed a `custom` 8-bit computer system, including its own instruction set architecture (ISA), `assembler`, `linker`, and `emulator`. This project explores the fundamentals of computer architecture and low-level programming.
   - Technologies Used: `Go` (Golang) for software components, and `ANTLR4` for lexer and parser
-  - GitHub Repository: [https://github.com/ecoshub/asme8](https://github.com/ecoshub/asme8)
+  - GitHub Repository: [GitHub Repository](https://github.com/ecoshub/asme8)
 
 - **Cubic Match (Mobile Game):**
-  - Platform: iOS and Android
+  - Platform: iOS and Android (Unity)
   - Description: Developed "Cubic Match," an innovative match-based puzzle game that redefines the genre with its unique mechanics and engaging gameplay. The game challenges players' problem-solving skills through a series of increasingly complex puzzles.
   - Links:
     - [App Store](https://apps.apple.com/us/app/cubic-match-puzzle-game/id6733216385)
     - [Google Play](https://play.google.com/store/apps/details?id=com.solitudegames.RubikMatch&hl=en)
+
+- **Jin (Package):** A JSON parser/interpreter tool with advanced manipulation functions, known for its speed and `zero memory allocation`. [GitHub Repository](https://github.com/ecoshub/jin)
 
 - **Termium (Package):** A `CLI package` enabling the creation of panel-based applications with built-in command-line interaction capabilities. [GitHub Repository](https://github.com/ecoshub/termium)
 
 - **Surreal (Package):** A command-line tool for communication with `USB UART` or `RS232` serial devices, offering on-the-fly configuration changes and output mode selection. [GitHub Repository](https://github.com/ecoshub/surreal)
 
 - **WSFTP (App):** A local network `instant messaging` and `file transfer program` using TCP/IP, UDP, and `WebSocket` protocols. [GitHub Repository](https://github.com/ecoshub/wsftp)
-
-- **Jin (Package):** A JSON parser/interpreter tool with advanced manipulation functions, known for its speed and low memory usage. [GitHub Repository](https://github.com/ecoshub/jin)
 
 
 <br>
